@@ -38,15 +38,12 @@ Both projects are fully responsive, user-friendly, and store data using **Local 
 
 ## Installation & Setup
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/recipe-book-link-shortener.git
+# Repo
+https://github.com/imanchalsingh/CodeClauseRepo/tree/master
+```
 
-# Navigate into the project folder
-cd recipe-book-link-shortener
+---
 
-# Install dependencies
-npm install
-``` 
-
-# Run the development server
-npm run dev
+## Acknowledgements
+A big **thank you** to **CodeClause** for this amazing internship opportunity and guidance.  
+Also, thanks to **Next.js** and the open-source community for making development smooth and fun! 
