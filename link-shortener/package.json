@@ -8,8 +8,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "@prisma/client": "^6.17.1",
+    "@tailwindcss/postcss": "^4.1.14",
+    "next": "15.5.6",
+    "prisma": "^6.17.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.6"
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1",
+    "@types/react": "^19.2.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.14",
+    "typescript": "^5.9.3"
   }
 }
